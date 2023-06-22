@@ -1,0 +1,7 @@
+.second-slider{ 
+    background-image: url(Image/Img_slider/back_groundlmct.jpg);
+    background-size: cover;
+    height: 510px;
+    background-repeat: no-repeat;
+    background-position: right -200px top;
+}

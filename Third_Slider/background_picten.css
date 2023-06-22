@@ -1,0 +1,13 @@
+.second-slider{ 
+    background-image: url(Images/background_ten.jpg);
+    background-size: cover;
+    height: 510px;
+    background-repeat: no-repeat;
+    background-position: right -200px top;
+}
+
+.second-slider span{
+    color: #fff;
+    padding: 3px 10px;
+    background-color: #9b2020;
+}

@@ -1,0 +1,14 @@
+.first-slider{
+    background-image: url(Images/background_beta.jpg);
+    background-size: cover;
+    height: 500px;
+    background-repeat: no-repeat;
+}
+
+span.glyphicon.glyphicon-chevron-right {
+    margin-top: 77px;
+}
+
+.sub-first-slider .left{
+    width: 50%;
+}

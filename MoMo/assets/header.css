@@ -1,0 +1,161 @@
+.navbar-default {
+    background-color: #fff;
+    border: none;
+    width: 100%;
+}
+
+.logo{
+    width: 40px;
+    height: 40px;
+    margin-top: 5px;
+}
+
+.navbar-default .btn-link {
+    line-height: 34px;
+}
+
+.nav .navbar-nav>a {
+    color: #777;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.nav li:hover .subnav{
+    display: block;
+}
+
+.subnav:hover{
+    display: block;
+}
+
+.subnav{
+    display: none;
+    position: absolute;
+    width: 940px;
+    background-color: #fff;
+    margin-top: 10px;
+    height: 360px;
+    padding: 20px 0px;
+}
+
+.subnav  ul {
+   
+    list-style: none;
+}
+
+.momo .subnav{
+    width: 340px;
+    height: 250px;
+}
+
+.tintuc .subnav{
+    width: 340px;
+    height: 460px;
+}
+
+.trogiup .subnav{
+    width: 340px;
+    height: 250px;
+}
+
+.doitac .subnav{
+    width: 380px;
+    height: 350px;
+}
+
+.blog .subnav{
+    width: 400px;
+    height: 650px;
+}
+
+
+.subnav  ul li{
+    position: relative;
+    padding-top: 10px;
+}
+
+.momo .subnav p{
+    font-size: 10px;
+    position: absolute;
+    left: 37px;
+    color: #888;
+    top: 35px;
+}
+
+.tintuc .subnav p{
+    font-size: 10px;
+    position: absolute;
+    left: 37px;
+    color: #888;
+    top: 35px;
+}
+
+.trogiup .subnav p{
+    font-size: 10px;
+    position: absolute;
+    left: 37px;
+    color: #888;
+    top: 35px;
+}
+
+.doitac .subnav p{
+    font-size: 10px;
+    position: absolute;
+    left: 37px;
+    color: #888;
+    top: 35px;
+}
+
+.blog .subnav p{
+    font-size: 10px;
+    position: absolute;
+    left: 37px;
+    color: #888;
+    top: 35px;
+}
+
+.subnav  ul li:hover{
+    background-color: rgb(252 231 243);
+    
+}
+
+.subnav ul li:hover>a{
+    color: #cc477f;
+}
+
+
+.subnav  ul a{
+    text-decoration: none;
+    color: rgb(64 64 64);
+    font-weight: 700;
+}
+
+.subnav .row ul p {
+    font-size: 10px;
+    position: absolute;
+    left: 37px;
+    color: #888;
+    top: 35px;
+}
+
+.subnav .row img{
+    width: 15%;
+}
+
+a.btn.btn-link.dropdown-toggle {
+    color:rgb(82 82 82);
+    font-weight: 600;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
